@@ -23,6 +23,15 @@ In this example, the Pre-grid represents the initial state, and the Post-grid is
 
 For training and validation, access the dataset [here](link_to_your_dataset). The dataset includes a variety of tasks and corresponding command sequences to help you train and evaluate your models effectively.
 
+## Project Report and Presentation
+
+The comprehensive project report and presentation on the implementation of Double Deep Q Networks (DQN) to solve the Karel AVATAR challenge are linked below. 
+
+- **[Project Report](https://drive.google.com/drive/folders/1CDN_du-QtAtQGc3YYQQwJi7UfLH8_U4G?usp=sharing)**
+- **[Project Presentation](https://drive.google.com/drive/folders/17COOFYlAgR0mBHmYXthD5hBx0q2jRB2B?usp=sharing)**
+
+Feel free to gain insights into the techniques applied to solve this challenge using Deep Q Networks.
+
 ## Installation Instructions
 
 Follow these steps to set up the environment:
